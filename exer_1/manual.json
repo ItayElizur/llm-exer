@@ -1,0 +1,98 @@
+[
+  {
+    "Title": "Manage power",
+    "Body": "Use the information in this section to achieve the best balance between performance and power efficiency"
+  },
+  {
+    "Title": "Check the battery status",
+    "Body": "The battery status icon or is in the Windows notification area. You can check the battery status, view the current power plan, and access battery settings quickly.\n Click the battery status icon to display the percentage of battery power remaining and change the power mode. A warning message is displayed when the battery is low"
+  },
+  {
+    "Title": "Charge the battery",
+    "Body": "When the remaining battery power is low, charge your battery by connecting your computer to ac power.\n The battery is fully charged in about two to four hours. The actual charging time depends on the battery capacity, the physical environment, and whether you are using the computer.\n Battery charging is also affected by its temperature. The recommended temperature range for charging the battery is between 10°C (50°F) and 35°C (95°F).\n Note: \nYou can check the battery temperature in Lenovo Vantage or Lenovo PC Manager.\n To maximize the life of the battery, once the battery is fully charged, it must discharge to 94% or lower before it will be allowed to recharge again.\n To extend your battery’s lifespan, the battery may optimize its full charge capacity based on your usage. After prolonged periods of limited use, full battery capacity may not be available until you discharge to as low as 20% and recharge completely. For more information, refer to the power section of Lenovo Vantage."
+  },
+  {
+    "Title": "Set power button behavior",
+    "Body": "By default, pressing the power button puts the computer to sleep mode. However, you can change the power button behavior in Windows Control Panel.\n Step 1. Type Control Panel in the Windows search box and then press Enter. Open the control panel and view by large or small icons.\n Step 2. Select the power options and then click choose what the power button does."
+  },
+  {
+    "Title": "A power plan",
+    "Body": "A power plan is a collection of power-saving settings made available by an operating system. With a power plan, you can set idle time-outs for different hardware components to enter a low-power state. The default power plan and some of its idle time-out settings are listed below for computer models pre-installed with Windows.\n The listed settings are active when the computer is connected to an electrical outlet. If your computer include a built-in battery pack, a different collection of time-out settings is set to take effect when the computer is operating on battery power.\n • Default power plan: Balanced \n• Turn off the display: after 10 minutes\n • Put the computer to sleep: – after 15 minutes (dc mode)– after 30 minutes (ac mode)\n Note: To wake the computer from the sleep state, press the power button or any key on the keyboard."
+  },
+  {
+    "Title": "Change or customize a power plan",
+    "Body": "This operation is applicable to computers with pre-installed Windows.\n Step 1. Type power plan in the Windows search box and then press Enter.\n Step 2. Customize a power plan of your preference."
+  },
+  {
+    "Title": "Set performance mode",
+    "Body": "Your computer can work in different performance modes. The performance and power consumption of the computer vary in different performance modes. Press Fn + Q to cycle through different performance modes."
+  },
+  {
+    "Title": "Change settings in UEFI/BIOS setup utility",
+    "Body": "This section introduces what is UEFI/BIOS and the operations you can perform in its setup utility."
+  },
+  {
+    "Title": "What is UEFI/BIOS setup utility",
+    "Body": "UEFI/BIOS is the first program that runs when a computer starts. UEFI/BIOS initializes hardware components and loads the operating system and other programs. Your computer may include a setup program (setup utility) with which you can change certain UEFI/BIOS settings."
+  },
+  {
+    "Title": "Open the UEFI/BIOS setup utility",
+    "Body": "Step 1. Turn on or restart the computer.\n Step 2. When the Lenovo logo appears on the screen, press F2 repeatedly. \nNote: For computers with hotkey mode enabled, press Fn + F2."
+  },
+  {
+    "Title": "Change the startup sequence",
+    "Body": "You may need to change the startup sequence to allow the computer to start from another device or a network location.\n Step 1. Open the UEFI/BIOS setup utility.\n Step 2. Navigate to the Boot menu.\n Step 3. Follow on-screen instructions to change the order of devices under Boot Priority Order.\n Note: You can also change startup sequence temporarily without opening the setup utility. To do so, start the computer. When the Lenovo logo appears, press F12 (or Fn + F12) repeatedly."
+  },
+  {
+    "Title": "Change hotkey mode",
+    "Body": "Step 1. Open the UEFI/BIOS setup utility.\n Step 2. Select Configuration ➙ Hotkey Mode and press Enter.\n Step 3. Change the setting to Disabled or Enabled.\n Step 4. Select Exit ➙ Exit Saving Changes."
+  },
+  {
+    "Title": "Enable or disable always-on",
+    "Body": "For some Lenovo computers with always-on connectors, the always-on function can be enabled or disabled in the UEFI/BIOS setup utility.\n Step 1. Open the UEFI/BIOS setup utility.\n Step 2. Select Configuration ➙ Always On USB and press Enter.\n Step 3. Change the setting to Disabled or Enabled.\n Step 4. Select Exit ➙ Exit Saving Changes."
+  },
+  {
+    "Title": "Set passwords in UEFI/BIOS setup utility",
+    "Body": " This section introduces the types of passwords that you can set in the UEFI (Unified Extensible Firmware Interface) or BIOS (Basic Input/Output System) setup utility."
+  },
+  {
+    "Title": "Password types",
+    "Body": "You can set various types of passwords in the UEFI/BIOS setup utility.\n Password type\n Pre-requisite\n Usage\n Administrator password\n No\n You must enter it to start the setup \nutility.\n User password\n The administrator password must be \nset.\n You can use the user password to \nstart the setup utility.\n Master hard disk password\n No\n You must enter it to start the \noperating system.\n User hard disk password\n The master hard disk password must \nbe set.\n You can use the user hard disk \npassword to start the operating \nsystem."
+  },
+  {
+    "Title": "Set administrator password",
+    "Body": "You set the administrator password to prevent unauthorized access to the UEFI/BIOS setup utility. \nAttention: If you forget the administrator password, a Lenovo authorized service personnel cannot reset your password. You must take your computer to a Lenovo authorized service personnel to have the system board replaced. Proof of purchase is required and a fee will be charged for parts and service.\n Step 1. Open the UEFI/BIOS setup utility.\n Step 2. Select Security ➙ Set Administrator Password and press Enter.\n Step 3. Enter a password string that contains only letters and numbers and then press Enter\n Step 4. Enter the password again and press Enter.\n Step 5. Select Exit ➙ Exit Saving Changes.\n Next time you start the computer, you must enter the administrator password to open the setup utility. If Power on Password is enabled, you must enter the administrator password or the user password to start the computer."
+  },
+  {
+    "Title": "Change or remove administrator password",
+    "Body": " Only the administrator can change or remove the administrator password.\n Step 1. Open the UEFI/BIOS setup utility using the administrator password.\n Step 2. Select Security ➙ Set Administrator Password and press Enter.\n Step 3. Enter the current password.\n Step 4. In the Enter New Password text box, enter the new password.\n Step 5. In the Confirm New Password text box, enter the new password again. \nNote: If you want to remove the password, press Enter in both text boxes without entering any \ncharacter.\n Step 6. Select Exit ➙ Exit Saving Changes.\n If you remove the administrator password, the user password is also removed."
+  },
+  {
+    "Title": "Set user password",
+    "Body": "You must set the administrator password before you can set the user password.\n The administrator of the setup utility might need to set a user password for use by others.\n Step 1. Open the UEFI/BIOS setup utility using the administrator password.\n Step 2. Select Security ➙ Set User Password and press Enter.\n Step 3. Enter a password string that contains only letters and numbers and then press Enter.  \nThe user password must be different from the administrator password.\n Step 4. Enter the password again and press Enter.\n Step 5. Select Exit ➙ Exit Saving Changes."
+  },
+  {
+    "Title": "Enable power-on password",
+    "Body": "If the administrator password has been set, you can enable power-on password to enforce greater security.\n Step 1. Open the UEFI/BIOS setup utility.\n Step 2. Select Security ➙ Power on Password and press Enter. \nNote: The administrator password must be set in advance.\n Step 3. Change the setting to Enabled.\n Step 4. Select Exit ➙ Exit Saving Changes.\n If power-on password is enabled, a prompt appears on the screen every time you turn on the computer. You must enter the administrator or user password to start the computer."
+  },
+  {
+    "Title": "Set hard disk password",
+    "Body": "You can set a hard disk password in the setup utility to prevent unauthorized access to your data. \nAttention: Be extremely careful when setting a hard disk password. If you forget the hard disk password, a Lenovo authorized service personnel cannot reset your password or recover data from the hard disk. You must take your computer to a Lenovo authorized service personnel to have the hard disk drive replaced. Proof of purchase is required and a fee will be charged for parts and service.\n Step 1. Open the UEFI/BIOS setup utility.\n Step 2. Select Security ➙ Set Hard Disk Password and press Enter. \nNote: If you start the setup utility using the user password, you cannot set hard disk password.\n Step 3. Follow on-screen instructions to set both master and user passwords. \nNote: The master and user hard disk passwords must be set at the same time.\n Step 4. Select Exit ➙ Exit Saving Changes.\n If the hard disk password is set, you must provide the correct password to start the operating system."
+  },
+  {
+    "Title": "How do I partition my storage drive?",
+    "Body": "Refer to https://support.lenovo.com/solutions/ht503851"
+  },
+  {
+    "Title": "What should I do if my computer stops responding.",
+    "Body": "Press and hold the power button until the computer turns off. Then restart the computer."
+  },
+  {
+    "Title": "What should I do if I spill liquid on the computer?",
+    "Body": " 1. Carefully unplug the ac power adapter and turn off the computer immediately. The more quickly you stop the current from passing through the computer the more likely you will reduce damage from short circuits. Attention: Although you might lose some data or work by turning off the computer immediately, leaving the computer on might make your computer unusable.\n 2. Wait until you are certain that all the liquid is dry before turning on your computer. \nCAUTION: \nDo not try to drain out the liquid by turning over the computer. If your computer has keyboard drainage holes on the bottom, the liquid will be drained out through the holes."
+  },
+  {
+    "Title": "Where can I get the latest device drivers and UEFI/BIOS?",
+    "Body": "• Lenovo Vantage or Lenovo PC Manager\n • Lenovo Support Web site at https://support.lenovo.com"
+  }
+]
