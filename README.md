@@ -1,2 +1,2 @@
-# llm_exer
+# llm-exer
 An itroductory exercise into LLMs
