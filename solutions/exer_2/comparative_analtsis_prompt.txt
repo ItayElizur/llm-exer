@@ -1,0 +1,10 @@
+TODO: Design a prompt for comparing code alternatives
+- Present multiple code versions
+- Ask for trade-off analysis
+- Request recommendations
+
+Version 1:
+{code1}
+
+Version 2:
+{code2}

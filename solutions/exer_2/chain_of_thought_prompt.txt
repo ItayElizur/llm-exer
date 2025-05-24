@@ -1,0 +1,7 @@
+TODO: Create a prompt that encourages step-by-step analysis
+- Ask the model to explain its reasoning
+- Break down the analysis process
+- Show example reasoning steps
+
+Code to analyze:
+{code}

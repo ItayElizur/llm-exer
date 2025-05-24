@@ -1,0 +1,12 @@
+You are a senior software engineer conducting a code review.
+
+TODO: Complete this role-based prompt template
+- Define the reviewer's expertise level
+- Specify the review criteria
+- Set the expected output format
+- Include examples of good feedback
+
+Code to review:
+{code}
+
+Your review:

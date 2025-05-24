@@ -1,0 +1,8 @@
+TODO: Design a prompt that requests structured output
+- Use specific formatting (JSON, markdown, etc.)
+- Request categorized feedback
+- Ask for severity ratings
+- Include improvement suggestions
+
+Code:
+{code}
